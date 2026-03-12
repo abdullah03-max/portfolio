@@ -1,0 +1,23 @@
+Abdullah Aftab
+Computer Science Student | Web Developer | Flutter Developer
+
+Contact
+- Email: abdullahaftab861@gmail.com
+- Phone: 03197784575
+
+Education
+- COMSATS University Islamabad - BSc Computer Science (2023-2026)
+- GOVT College - Intermediate (2020-2022)
+
+Skills
+- MERN Stack, HTML, CSS, JavaScript, C++, C#, Python, DSA, Flutter, Dart
+
+Experience
+- Developer Hub Corporation - Web Developer Intern (2026-Present)
+- Deloitte - Data Analytics Intern (2025-2026)
+
+Projects
+- Hotel Management System
+- AllInOne Marketplace
+- Weather App
+- Dice Roller
