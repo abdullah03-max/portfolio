@@ -1,4 +1,4 @@
-import{r as Ui,j as Cr}from"./index-B400FsBX.js";/**
+import{r as Ui,j as Cr}from"./index-BiRPeJEw.js";/**
  * @license
  * Copyright 2010-2024 Three.js Authors
  * SPDX-License-Identifier: MIT
